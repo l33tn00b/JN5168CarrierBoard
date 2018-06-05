@@ -6,4 +6,4 @@ This is a carrier board for JN5168 ZigBee modules. All pins are broken out. Rese
 Above stated imput voltage limit (24V) depends on the FET used for polarity protection and the voltage rating of the input buffer capacitor. The chosen FET for polarity protection is rated for up to 30V. Omitting this FET and placing an appropriate buffer capacitor allow for input voltages up to the limit of the DC-DC step-down regulator, i.e. 45V.
 
 Here is a representation created by KiCAD:
-(https://github.com/l33tn00b/JN5168CarrierBoard/blob/master/jn5168_carrier.png "Render of JN5168 Carrier Board")
+![JN5168 Carrier Board Rendered by KiCAD](https://github.com/l33tn00b/JN5168CarrierBoard/blob/master/jn5168_carrier.png "Render of JN5168 Carrier Board")
