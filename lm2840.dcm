@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2840
+D LM2840 Buck 100mA 42V Input Step-Down Regulator
+K Buck Step-Dowm
+$ENDCMP
+#
+#End Doc Library

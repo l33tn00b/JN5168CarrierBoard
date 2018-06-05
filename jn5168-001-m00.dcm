@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP JN5168-001-M00
+D JN5168-001-M00 ZigBee Module (NXP)
+K ZigBee
+$ENDCMP
+#
+#End Doc Library
