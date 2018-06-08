@@ -14,3 +14,7 @@ Here is a representation created by KiCAD:
 This is the schematic:
 ![JN5168 Carrier Board Schematic](https://github.com/l33tn00b/JN5168CarrierBoard/blob/master/schematic.png "Schematic of JN5168 Carrier Board")
 
+There you go, a real PCB (to the left):
+![JN5168 Carrier Board Image](https://github.com/l33tn00b/JN5168CarrierBoard/blob/master/jn5168_carrier_image.jpg" Image of JN5168 Carrier Board")
+
+On the above picture you might realize the voltage supply (red and black) is done via clamps instead of the screw terminal: This is due to the RIACON screw terminal that can just be pulled off the solder pins.
